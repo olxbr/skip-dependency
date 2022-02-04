@@ -1,12 +1,12 @@
 {
-  "name": "@favware/skip-dependency",
+  "name": "@olxbr/skip-dependency",
   "description": "Skip pesky dependencies with ease",
   "author": "@favware",
   "version": "1.1.3",
   "main": "index.js",
   "module": "index.mjs",
   "license": "MIT",
-  "homepage": "https://github.com/favware/skip-dependency#readme",
+  "homepage": "https://github.com/olxbr/skip-dependency#readme",
   "exports": {
     "require": "./index.js",
     "default": "./index.js",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/favware/skip-dependency.git"
+    "url": "git+https://github.com/olxbr/skip-dependency"
   },
   "bugs": {
-    "url": "https://github.com/favware/skip-dependency/issues"
+    "url": "https://github.com/olxbr/skip-dependency"
   },
   "keywords": [
     "favware",
